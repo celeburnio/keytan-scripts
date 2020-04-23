@@ -239,8 +239,8 @@ function createRandomNumfichas() {
 }
 
 function resetNavegantes() {
-  createRandomMaterias()
-  createRandomNumfichas()
+  createRandomMaterias();
+  createRandomNumfichas();
 }
 
 function descubrirIsla() {
